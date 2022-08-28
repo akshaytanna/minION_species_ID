@@ -357,7 +357,7 @@ pipeline and will help us isolate and manage our project.
 
 Install nanofilt into that environment. Deactivate env.
 
-`conda install -c anaconda hd5`  
+`conda install -c anaconda hdf5`  
 `h5dump`  
 `conda deactivate` 
 
